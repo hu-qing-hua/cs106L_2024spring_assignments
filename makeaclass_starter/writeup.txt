@@ -1,0 +1,9 @@
+Name:
+SunetID:
+
+1. What's const-correctness and why is it important for programmers?
+A good thing. It means using the keyword const to prevent const objects from getting mutated.
+https://stackoverflow.com/questions/136880/sell-me-const-correctness
+
+2. Is your class const-correct? How do you know?
+yes
